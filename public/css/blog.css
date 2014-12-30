@@ -1,0 +1,114 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+ul{
+	list-style: none;
+}
+
+.blog-body{
+	position: absolute;
+}
+
+.blog{
+	padding-top: 20px;
+	width: 800px;
+	margin: auto;
+}
+
+.blog_main{
+	padding-bottom: 30px;
+	border-bottom: 1px solid #eee;
+}
+
+.index_title{
+	font-size: 24px;
+}
+
+.index_author{
+	color: #aaa;
+}
+
+.index_body{
+	font-size: 14px;
+	padding: 10px 0px;
+	max-height: 72px;
+	overflow: hidden;
+}
+
+.blog_others{
+	color: #aaa;
+	float: right;
+}
+
+.blog_others span{
+	margin-left: 10px;
+}
+
+.index .page-header{
+	text-align: center;
+	color: #666;
+}
+
+.index .blog{
+	width: 800px;
+	margin: auto;
+}
+
+.index .breadcrumb{
+	text-align: center;
+	margin-top: -20px;
+}
+
+.index .list-group{
+	border-bottom: 1px solid #ddd;
+}
+
+.index .blog_title{
+	font-size: 24px;
+}
+.title{
+	width: 600px;
+	border: 1px solid #fff;
+}
+
+.author{
+	width: 600px;
+	border: 1px solid #fff;
+}
+
+.body{
+	margin-top: 10px;
+	width: 800px;
+	height: 300px;
+	border:1px solid #ccc; 
+	padding: 10px;
+	text-indent: 30px;
+}
+
+.btn{
+	margin-top: 5px;
+	float: right;
+}
+
+.change a{
+	float: right;
+	border: 1px solid #ccc;
+	padding: 6px 10px;	
+	margin-top: 5px;
+	margin-left: 10px;
+	color: #333;
+	border-radius: 3px;
+}
+
+.change a:hover{
+	text-decoration: none;
+	background-color: #eee;
+}
+
+.btn-change{
+	display: block;
+	position: absolute;
+}
